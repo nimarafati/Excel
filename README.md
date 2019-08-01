@@ -1,2 +1,2 @@
 # Excel
-In here you find notes about excel
+In here you find notes about excel commands
